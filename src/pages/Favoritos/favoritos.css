@@ -13,6 +13,11 @@
   font-size: 18px;
 }
 
+.meus-filmes ul {
+  width: 80%;
+  max-width: 720px;
+}
+
 .meus-filmes ul li {
   list-style: none;
   display: flex;
